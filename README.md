@@ -7,7 +7,7 @@ MutLoadedLevel is a mutator that brings **Gun Game** to Unreal Tournament 2004 b
 - [x] Infinite ammo
 - [x] All pickups/weapons in the map will be removed or disabled
 - [x] Players will start with the ShieldGun and advance through loadouts based on their acquired score
-  - ShieldGun > AssaultRifle > BioRIfle > ShockRifle > LinkGun > MiniGun > FlakCannon > RocketLauncher > SniperRifle
+  - ShieldGun > AssaultRifle > BioRifle > ShockRifle > LinkGun > MiniGun > FlakCannon > RocketLauncher > SniperRifle
   - SniperRifle and ShieldGun > SniperRifle and AssaultRifle, and so on...
 - [x] Every time a player acquires a new score, a new loadout will be given to the player based on that score
 - [x] The scoring system will be inherited from the current game mode
