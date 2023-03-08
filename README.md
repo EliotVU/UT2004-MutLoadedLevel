@@ -9,15 +9,15 @@ Removes all the initial weapons you spawn with, except for the ShieldGun:
 
 ## Installation
 
-```cpp
+```ini
 MutLoadedLevel.MutLoadedLevel
 ```
 
-## Building and Dependancies
+## Building and Dependencies
 
 **EditPackages**
 
-```cpp
+```ini
 EditPackages=MutLoadedLevel
 ```
 
